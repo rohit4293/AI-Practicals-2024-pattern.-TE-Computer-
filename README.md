@@ -1,0 +1,1 @@
+# AI-Practicals-2024-pattern.-TE-Computer-
