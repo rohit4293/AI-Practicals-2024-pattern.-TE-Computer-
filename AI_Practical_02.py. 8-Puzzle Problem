@@ -1,3 +1,5 @@
+Q) Implementation of A Search Algorithm for Solving the 8-Puzzle Problem*
+
 import heapq
 
 # Goal state
